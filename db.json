@@ -1,0 +1,26 @@
+[
+   
+  
+   
+    {
+        "id": 1,
+        "name": "Diamond",
+        "weightInCarats": 0.02,
+        "priceInUSD": 1000
+    },
+    {
+        "id": 2,
+        "name": "Ruby",
+        "weightInCarats": 0.05,
+        "priceInUSD": 5000
+    },
+    {
+        "id": 3,
+        "name": "Nephrite",
+        "weightInCarats": 0.07,
+        "priceInUSD": 700
+    }
+
+  
+
+]
